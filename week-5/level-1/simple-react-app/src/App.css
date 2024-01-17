@@ -1,0 +1,38 @@
+button
+{
+    background-color: #2f86ea;
+    padding: 0.5%;
+    margin-right:  10px;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    font-weight: 500;
+    width: 100px;
+   
+}
+
+#container
+{
+    display:  flex;
+    flex-direction: column;
+    border: 2px solid;
+    width: 25vw;
+    margin: 5px auto;
+    padding: 2% 2%;
+  
+  
+   
+   
+
+}
+
+
+h3
+{
+    font-weight: 100;
+    font-style: normal;
+}
+
+li{
+    list-style: none;
+}
